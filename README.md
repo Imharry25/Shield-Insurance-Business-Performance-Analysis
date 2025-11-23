@@ -1,5 +1,4 @@
 # Wavecon Telecom – 5G Launch Impact Analysis
-# Wavecon Telecom – 5G Launch Impact Analysis  
 ### A Complete Power BI Business Intelligence Project
 
 ---
