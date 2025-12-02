@@ -47,13 +47,14 @@ Based on the analysis, the following actions are recommended to Shield Insurance
 
 ## 📷 Dashboard Screenshots
 
-![Dashboard Overview](<img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/139b30d0-867d-4d6d-acff-5a0e7a7ec8ae" />
-)
 *Home View*
+ <img width="1336" height="743" alt="image" src="https://github.com/user-attachments/assets/a42896af-de65-4598-8cfe-2d73e9bf67d4" />
 
-![Dashboard Overview](<img width="1332" height="741" alt="image" src="https://github.com/user-attachments/assets/0bfc0c33-fe51-4615-a305-e6dd1733c044" />
-)
 *Demographic Analysis*
+ <img width="1331" height="749" alt="image" src="https://github.com/user-attachments/assets/d32d9a76-5816-43c0-ada2-f4bcdd93ece3" />
+
+*Sales Mode Analysis*
+<img width="1331" height="747" alt="image" src="https://github.com/user-attachments/assets/54cf1ba4-efac-452f-8025-2e7c707360f3" />
 
 ---
 *Created by [Mayank]*
