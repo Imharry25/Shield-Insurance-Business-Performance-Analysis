@@ -47,10 +47,12 @@ Based on the analysis, the following actions are recommended to Shield Insurance
 
 ## 📷 Dashboard Screenshots
 
-![Dashboard Home View](<img width="1331" height="749" alt="image" src="https://github.com/user-attachments/assets/862513e5-ac66-487e-824d-cfbc0e4bbdd7" />)
-*Home View showing key KPIs*
+![Dashboard Overview](<img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/139b30d0-867d-4d6d-acff-5a0e7a7ec8ae" />
+)
+*Home View*
 
-![Age Group Analysis](<img width="1331" height="741" alt="image" src="https://github.com/user-attachments/assets/c0a79389-ceab-4ee8-83dd-416ded36559f" />)
+![Dashboard Overview](<img width="1332" height="741" alt="image" src="https://github.com/user-attachments/assets/0bfc0c33-fe51-4615-a305-e6dd1733c044" />
+)
 *Demographic Analysis*
 
 ---
