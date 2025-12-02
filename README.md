@@ -5,7 +5,7 @@ Shield Insurance is a fictional Insurance Company offering a broad portfolio of 
 
 This project involves the creation of a comprehensive **Power BI Dashboard** to unify this data, providing actionable insights into revenue trends, customer demographics, and sales mode performance to support strategic decision-making.
 
-**Live Dashboard:** [[Link to your Power BI Service dashboard or Portfolio Website](https://app.powerbi.com/groups/me/reports/3e14806e-4b93-461b-bb8c-cd302207489c/4cc741efbecbba2eb3ea?experience=power-bi)]
+**Live Dashboard:** [[Link to Power BI Service dashboard](https://app.powerbi.com/groups/me/reports/3e14806e-4b93-461b-bb8c-cd302207489c/4cc741efbecbba2eb3ea?experience=power-bi)]
 
 ## ❓ Problem Statement
 Shield Insurance struggled with:
@@ -50,8 +50,7 @@ Based on the analysis, the following actions are recommended to Shield Insurance
 ![Dashboard Home View](<img width="1331" height="749" alt="image" src="https://github.com/user-attachments/assets/862513e5-ac66-487e-824d-cfbc0e4bbdd7" />)
 *Home View showing key KPIs*
 
-![Age Group Analysis](<img width="1331" height="741" alt="image" src="https://github.com/user-attachments/assets/c0a79389-ceab-4ee8-83dd-416ded36559f" />
-)
+![Age Group Analysis](<img width="1331" height="741" alt="image" src="https://github.com/user-attachments/assets/c0a79389-ceab-4ee8-83dd-416ded36559f" />)
 *Demographic Analysis*
 
 ---
