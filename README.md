@@ -1,94 +1,58 @@
-# Wavecon Telecom – 5G Launch Impact Analysis
-### A Complete Power BI Business Intelligence Project
+# Shield Insurance - Performance Analysis
+
+## 📊 Project Overview
+Shield Insurance is a fictional Insurance Company offering a broad portfolio of insurance plans across India. The company faced challenges in analyzing data scattered across different cities, sales channels, and customer segments. 
+
+This project involves the creation of a comprehensive **Power BI Dashboard** to unify this data, providing actionable insights into revenue trends, customer demographics, and sales mode performance to support strategic decision-making.
+
+**Live Dashboard:** [[Link to your Power BI Service dashboard or Portfolio Website](https://app.powerbi.com/groups/me/reports/3e14806e-4b93-461b-bb8c-cd302207489c/4cc741efbecbba2eb3ea?experience=power-bi)]
+
+## ❓ Problem Statement
+Shield Insurance struggled with:
+* **Data Silos:** Data was scattered across systems, making it difficult to monitor growth.
+* **Limited Visibility:** Lack of insights into demographic metrics and sales channel performance.
+* **Decision Latency:** Inability to make fast, data-driven decisions due to low BI usage.
+
+## 🛠️ Tools Used
+* **Power BI:** For data modeling, DAX calculations, and visualization.
+* **Excel:** For initial data cleaning and understanding the raw dataset.
+* **Power Query:** For data transformation and ETL processes.
+
+## 🗝️ Key Metrics (Nov 2022 - Apr 2023)
+* **Total Revenue:** ₹989.3 Million
+* **Total Customers:** 26,841
+* **Daily Revenue Growth:** ₹5.47 Million
+* **Dominant Market:** Delhi NCR & Mumbai account for ~65% of total premiums.
+
+## 💡 Key Insights
+### 1. Seasonality Trends
+* **March Surge:** There was a massive spike in revenue (+85%) and customer acquisition (+82.3%) in March, likely driven by fiscal year-end tax-saving purchases.
+* **April Slump:** Immediately following March, revenue corrected sharply by -42%, indicating a heavy reliance on seasonal cycles.
+
+### 2. Customer Demographics
+* **The "Cash Cow" (Age 31-40):** This group contributes the highest revenue and customer volume with a moderate settlement risk (53.5%).
+* **High Risk Segment (65+):** While premiums are high (avg ₹96k), the settlement rate is alarming at 74.3%, squeezing profit margins.
+* **Young Demographics (18-24):** Lowest revenue contribution but very low risk (37.5% settlement rate).
+
+### 3. Sales Channels
+* **Offline Dominance:** Offline Agents are the primary revenue driver, contributing **55.7%** (₹550M) of total revenue.
+* **Digital Lag:** Online Apps and Websites combined only contribute ~29% of revenue, highlighting a massive opportunity for digital transformation.
+
+## 🚀 Strategic Recommendations
+Based on the analysis, the following actions are recommended to Shield Insurance:
+1.  **Flatten Seasonality:** Launch mid-year "Health Check-up" campaigns or lower-premium products in Q2/Q3 to reduce dependence on the March peak.
+2.  **Digital Push for "Cash Cows":** Target the 31-40 age group with exclusive "Online-Only" discounts to shift them from expensive Agent-channels to the App/Website, reducing CAC (Customer Acquisition Cost).
+3.  **Audit Senior Policies:** Conduct a strict profitability audit on the 65+ age group. If premiums do not cover the 74% claim ratio, underwriting norms must be tightened.
+4.  **Regional Focus:** Double down on marketing in Delhi NCR and Mumbai, as these are high-value markets responding well to current products.
+
+## 📷 Dashboard Screenshots
+
+![Dashboard Home View](<img width="1331" height="749" alt="image" src="https://github.com/user-attachments/assets/862513e5-ac66-487e-824d-cfbc0e4bbdd7" />)
+*Home View showing key KPIs*
+
+![Age Group Analysis](<img width="1331" height="741" alt="image" src="https://github.com/user-attachments/assets/c0a79389-ceab-4ee8-83dd-416ded36559f" />
+)
+*Demographic Analysis*
 
 ---
-
-## 📘 Project Overview
-This project analyzes the business impact of **Wavecon Telecom’s 5G launch (May 2022)** using Power BI.  
-The dashboard provides insights on revenue trends, KPI performance, customer behavior, and plan performance before and after the rollout.
-
-The goal is to help business stakeholders understand the effects of the 5G launch and make data-driven decisions on telecom plan strategy, pricing, customer retention, and regional performance.
-
----
-
-## 🎯 Objectives
-- Compare **Pre-5G vs. Post-5G** performance  
-- Analyze **KPI shifts** like TAU, ARPU & Unsubscribed Users  
-- Identify **best and worst performing plans**  
-- Study **city-wise revenue patterns**  
-- Recommend actions to optimize revenue & user engagement  
-
----
-
-## 🛠️ Tech Stack
-- **Power BI Desktop**
-- **Power Query**
-- **DAX (Data Analysis Expressions)**
-- **Excel / CSV datasets**
-
----
-
-## 📊 Key Insights
-
-### **1. Revenue Trend Post-5G Launch**
-- Overall revenue declined **slightly (-0.50%)**
-- Tier-II cities like *Lucknow, Patna, Raipur, Gurgaon* showed growth
-- Major metros like *Delhi, Chennai, Hyderabad* declined
-
----
-
-### **2. KPI Performance Summary**
-
-| KPI                       | Before 5G | After 5G | Change     |
-|--------------------------|-----------|----------|------------|
-| **TAU (Active Users)**   | 84.4M     | 77.4M    | **-8.28%** |
-| **ARPU**                 | ₹190.2    | ₹211.3   | +11.05%    |
-| **Unsubscribed Users**   | 5.6M      | 7.0M     | +23.50%    |
-
-🛑 **Worst-performing KPI → TAU dropped significantly**
-
----
-
-### **3. Plan Performance**
-
-#### ✔ Best Performing Plans
-- Smart Recharge Pack (2GB/day)  
-- Ultra Fast Mega Pack (3GB/day)  
-- Ultra Duo Data (1.8GB/day)
-
-#### ❌ Declining Plans
-- Rs.99 Full Talktime Pack  
-- 25GB 3G/4G Combo Pack  
-- Mini Saver (500MB/day)  
-- Xstream 15GB Pack  
-
----
-
-## 🧩 Recommendations
-
-### ❌ Discontinue
-- Rs.99 Talktime Combo  
-- Outdated short-validity 3G/4G packs  
-
-### ⚠ Rework
-- Xstream Mobile Data Pack (15GB/28 Days)
-
-### ✔ Retain / Promote
-- Super Saviour Plans  
-- Elite Saver Plans  
-
----
-
-## 📈 Dashboard Features
-- Pre- vs Post-5G Comparative View  
-- KPI Cards (TAU, ARPU, Unsubscribed Users)  
-- Revenue Trend Line Charts  
-- City-Wise Revenue Heatmaps  
-- Plan Performance Visuals (Bar, Treemap, Scatter)  
-- Discontinued Plan Analysis  
-- Insights Summary Page  
-
----
-
-## 📁 Recommended Repository Structure
-
+*Created by [Mayank]*
