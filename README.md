@@ -5,7 +5,7 @@ Shield Insurance is a fictional Insurance Company offering a broad portfolio of 
 
 This project involves the creation of a comprehensive **Power BI Dashboard** to unify this data, providing actionable insights into revenue trends, customer demographics, and sales mode performance to support strategic decision-making.
 
-**Live Dashboard:** [[Link to Power BI Service dashboard](https://app.powerbi.com/groups/me/reports/3e14806e-4b93-461b-bb8c-cd302207489c/4cc741efbecbba2eb3ea?experience=power-bi)]
+**Live Dashboard:** [[Link to Power BI Service dashboard]([https://app.powerbi.com/groups/me/reports/3e14806e-4b93-461b-bb8c-cd302207489c/4cc741efbecbba2eb3ea?experience=power-bi](https://www.linkedin.com/feed/update/urn:li:activity:7401848940096331776/))]
 
 ## ❓ Problem Statement
 Shield Insurance struggled with:
